@@ -35,7 +35,6 @@ En este análisis trabajé para **Zuber**, una empresa emergente de viajes compa
    > *“La duración promedio de los viajes desde el Loop hasta el Aeropuerto Internacional O'Hare cambia los sábados lluviosos.”*
 
    - Se formularon hipótesis nula y alternativa.
-   - Se aplicó una prueba estadística adecuada (`Mann-Whitney U`) con un nivel de significancia definido.
    - Se interpretaron los resultados y se elaboraron conclusiones basadas en evidencia.
 
 ---
